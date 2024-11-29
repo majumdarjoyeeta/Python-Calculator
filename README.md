@@ -20,7 +20,7 @@ Technologies Used 🛠️
 Getting Started 🚀
 1. Clone this repository:  
    ```bash  
-   git clone https://github.com/your-username/python-calculator.git  
+   git clone -->> (https://github.com/majumdarjoyeeta/Python-Calculator)  
    ```  
 2. Install the required library:  
    ```bash  
